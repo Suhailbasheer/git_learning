@@ -5,3 +5,5 @@ git init : for initializing empty git repository
 git add -add
 git commit -m "message"
 git status : to list all unttracked files
+git list : shows all history
+git branch : list all branches
